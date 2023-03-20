@@ -1,0 +1,12 @@
+C:\Users\Michelle\source\repos\takehome week 3\bin\Debug\takehome week 3.exe.config
+C:\Users\Michelle\source\repos\takehome week 3\bin\Debug\takehome week 3.exe
+C:\Users\Michelle\source\repos\takehome week 3\bin\Debug\takehome week 3.pdb
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome week 3.csproj.AssemblyReference.cache
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome week 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome_week_3.Form1.resources
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome_week_3.Properties.Resources.resources
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome week 3.csproj.GenerateResource.cache
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome week 3.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome week 3.exe
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome week 3.pdb
+C:\Users\Michelle\source\repos\takehome week 3\obj\Debug\takehome_week_3.SecondWindowForm.resources
