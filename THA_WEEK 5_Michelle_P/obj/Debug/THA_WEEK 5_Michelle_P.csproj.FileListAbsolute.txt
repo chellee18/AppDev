@@ -1,0 +1,11 @@
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\bin\Debug\THA_WEEK 5_Michelle_P.exe.config
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\bin\Debug\THA_WEEK 5_Michelle_P.exe
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\bin\Debug\THA_WEEK 5_Michelle_P.pdb
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK 5_Michelle_P.csproj.AssemblyReference.cache
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK 5_Michelle_P.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK_5_Michelle_P.Form1.resources
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK_5_Michelle_P.Properties.Resources.resources
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK 5_Michelle_P.csproj.GenerateResource.cache
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK 5_Michelle_P.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK 5_Michelle_P.exe
+C:\Users\Michelle\source\repos\THA_WEEK 5_Michelle_P\obj\Debug\THA_WEEK 5_Michelle_P.pdb
