@@ -1,0 +1,19 @@
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\AD WEEK 12.exe.config
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\AD WEEK 12.exe
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\AD WEEK 12.pdb
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\MySql.Data.dll
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\System.Buffers.dll
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\MySql.Data.xml
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.csproj.AssemblyReference.cache
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD_WEEK_12.Form1.resources
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD_WEEK_12.Properties.Resources.resources
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.csproj.GenerateResource.cache
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.csproj.CopyComplete
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.exe
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.pdb
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\System.Memory.dll
+C:\Users\Michelle\source\repos\AD WEEK 12\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Michelle\source\repos\AD WEEK 12\obj\Debug\AD WEEK 12.exe.config
